@@ -24,3 +24,7 @@ To load this plugin in your Profanity XMPP Terminal Chat Client: Please copy the
 ### sources:
 This plugin was inspired by Rainer Stropeks scooling  about openAI API from the german heise-academy during Juli 2024. In this scooling he provided his code from the Microsoft AI day:
 https://github.com/rstropek/microsoft-ai-day/tree/main/labs/015-basics-python
+
+### dependencies:
+profanity 0.14 (i.e. on Ubuntu 24.04)
+python3-openai
