@@ -26,5 +26,5 @@ This plugin was inspired by Rainer Stropeks scooling  about openAI API from the 
 https://github.com/rstropek/microsoft-ai-day/tree/main/labs/015-basics-python
 
 ### dependencies:
-profanity 0.14 (i.e. on Ubuntu 24.04)
-python3-openai
+- profanity 0.14 (i.e. on Ubuntu 24.04)
+- python3-openai
